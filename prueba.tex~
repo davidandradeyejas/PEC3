@@ -1,0 +1,37 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage[spanish]{babel}
+\usepackage[ansinew]{inputenc}
+\usepackage[right=2cm,left=3cm,top=2cm,bottom=2cm,headsep=0cm,footskip=0.5cm]{geometry}
+\usepackage[dvips]{graphicx}
+\begin{document} 
+\title{PEC3 Control de Versiones} 
+\author{David Andrade Yejas} 
+\date{2014/12/20}
+\maketitle 
+\section{Introduccion} 
+\begin{verbatim}
+Esta es la introduccion
+Descripcion linea 1.....
+Descripcion linea 2.....
+Decsripcion linea 3.....
+\end{verbatim}
+\section{Control de Versiones} 
+\begin{verbatim}
+Esta es la parte del control de Versiones
+Descripcion linea 1.....
+Descripcion linea 2.....
+Decsripcion linea 3.....
+\end{verbatim}
+\section{Documentacion}
+\begin{verbatim}
+Esta es la documentacion de la PEC 
+Descripcion linea 1.....
+Descripcion linea 2.....
+Decsripcion linea 3.....
+\end{verbatim}
+\section{Conclusiones}
+\begin{verbatim}  
+Resumen del trabajo
+\end{verbatim}
+\end{document}
+
